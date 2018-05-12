@@ -1,4 +1,8 @@
 _repo: The-Capitals-of-Spanish-America_50298
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50298-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Curtis, William Eleroy
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3885'
     url: http://www.gutenberg.org/2009/agents/3885
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50298#The-Capitals-of-Spanish-America
 gutenberg_issued: '2015-10-24'
 gutenberg_type: Text
 identifiers:
